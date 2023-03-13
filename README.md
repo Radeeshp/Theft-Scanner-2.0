@@ -1,6 +1,6 @@
 # Theft Scanner 2.0
 
-A python and computer vision project to detect faces and motion, and check if thatface i present in the database and store the faces that have been detected,and when it was detected in the video
+A python and computer vision project to detect faces and motion, and check if that face is present in the database using a face recognition software and stores the faces that have been detected,and when it was detected in the video
 
 ## 1 Problem Statement:
 With the increasing number of cameras installed for surveillance in India, the task of reviewing and analyzing footage has become increasingly time-consuming and resource-intensive for law enforcement agencies. Indian city has the highest number of cameras in the world that is 2,75,000 cameras in Delhi [9]. There are 1.54 million cameras in India, 2,80,000 in Chennai [8] that is 1200000hrs of footage to be reviewed . However, our product offers a solution to this problem. Our product is specifically designed to streamline the process of viewing and analysing footage. With its advanced algorithms and user-friendly interface, our product allows officers to quickly and efficiently analyse footage from multiple cameras, identify key events, and generate a concise summary for official reports. Whether it's for criminal investigations, incident reports, or other purposes, this product is the perfect solution for any department looking to improve their efficiency and effectiveness in the face of the vast amount of footage in India.
